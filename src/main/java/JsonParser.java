@@ -1,7 +1,6 @@
 import org.json.JSONObject;
 import org.json.JSONArray;
 
-import java.util.HashMap;
 
 public class JsonParser {
     public static void stringToArray(String str) {
